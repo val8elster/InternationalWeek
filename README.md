@@ -1,3 +1,5 @@
+link: https://tutors.dev/course/learning-to-use-github
+
 <p align="center">
   <a href="https://tutors.dev">
     <img src="./tutors-light.png"
