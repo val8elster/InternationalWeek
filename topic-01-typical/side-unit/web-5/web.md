@@ -1,3 +1,1 @@
-# gitlab
-
-GitLab homepage
+# GitLab Homepage

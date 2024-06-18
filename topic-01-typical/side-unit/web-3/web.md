@@ -1,3 +1,1 @@
-# github
-
-GitHub homepage
+# GitHub Homepage

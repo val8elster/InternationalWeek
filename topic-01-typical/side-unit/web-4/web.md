@@ -1,3 +1,1 @@
-# bitbucket
-
-Bitbucket homepage
+# Bitbucket Homepage

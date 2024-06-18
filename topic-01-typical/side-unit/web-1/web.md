@@ -1,3 +1,1 @@
-# git 
-
-git homepage
+# Git Homepage 
