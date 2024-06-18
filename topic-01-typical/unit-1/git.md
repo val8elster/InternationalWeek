@@ -1,5 +1,1 @@
----
-icon:
-  type: git-icon
---- 
-Git 
+[Git Icon](https://api.iconify.design/logos/git-icon.svg) **GIT**
