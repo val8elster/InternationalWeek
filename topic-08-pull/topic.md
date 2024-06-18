@@ -1,3 +1,3 @@
-# Ordering
+# Pull
 
-Explicit sorting of learning objects
+How to use pull in Git
