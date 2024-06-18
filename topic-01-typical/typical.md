@@ -1,3 +1,3 @@
-# Simple
+# Introduction
 
-Units with presentations, labs + resources
+What is the difference between Git and GitHub?
