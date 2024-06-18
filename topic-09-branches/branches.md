@@ -1,3 +1,3 @@
 # Branches
 
-What are branches in Git and how to create them?
+What are branches in Git and how to use them?
