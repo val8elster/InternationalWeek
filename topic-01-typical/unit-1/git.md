@@ -1,1 +1,0 @@
-[Git Icon](https://api.iconify.design/logos/git-icon.svg) **GIT**
