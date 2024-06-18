@@ -1,1 +1,5 @@
-devicon:git Git 
+---
+icon:
+  type: git-icon
+--- 
+Git 
