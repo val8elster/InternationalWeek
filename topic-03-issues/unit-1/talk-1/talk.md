@@ -1,3 +1,3 @@
-Lecture 3
+Issues
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+What are git issues and where are they used?
