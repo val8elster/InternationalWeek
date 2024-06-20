@@ -4,4 +4,3 @@ icon:
   color: #73B2B9
 --- 
 
-Git Homepage 
