@@ -3,5 +3,4 @@ icon:
   type: fa:chain
   color: #73B2B9
 --- 
-
-GitLab Homepage
+# GitLab Homepage
