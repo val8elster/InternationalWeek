@@ -1,3 +1,1 @@
-# Einführung
-
-Git vs. GitHub
+# Links
